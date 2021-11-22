@@ -1,0 +1,6 @@
+include<stdio.h>
+int main
+{
+      int*p=realloc(NULL,40);//等价于malloc(40)
+      
+}
